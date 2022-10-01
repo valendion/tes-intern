@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTestIntern</string>
+    <string name="masukkan_api_key">Masukkan Api Key</string>
+    <string name="pilih_kota">Pilih kota</string>
+    <string name="submit">Submit</string>
+    <string name="ff9f895b2e884d6680530135202710">ff9f895b2e884d6680530135202710</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+</resources>
